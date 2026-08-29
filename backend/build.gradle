@@ -1,0 +1,4 @@
+plugins { id 'application' }
+repositories { mavenCentral() }
+java { toolchain { languageVersion = JavaLanguageVersion.of(17) } }
+application { mainClass = 'com.nimo.backend.NimoServer' }
