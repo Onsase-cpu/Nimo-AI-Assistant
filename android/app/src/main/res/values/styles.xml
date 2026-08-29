@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Nimo" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item><item name="android:colorAccent">@color/orange</item><item name="android:navigationBarColor">@color:paper</item><item name="android:statusBarColor">@color:paper</item><item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
